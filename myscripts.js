@@ -66,7 +66,7 @@ pagination: {
       center: myLatLng,
       zoom: 16,
     });
-    image = '../i/pin.png',
+    image = 'i/pin.png',
     new google.maps.Marker({
       position: myLatLng,
       map,
